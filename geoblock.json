@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_keyword": [
         "4pda.to",
         "activestate.com",
         "amazon.com",
@@ -285,6 +285,7 @@
         "pluralsight.com",
         "phishtank.com",
         "promods.net",
+        "qaweb.dev",
         "qcad.org",
         "qualcomm.com",
         "quicknode.com",
@@ -378,5 +379,5 @@
       ]
     }
   ],
-  "version": 1
+  "version": 2
 }
